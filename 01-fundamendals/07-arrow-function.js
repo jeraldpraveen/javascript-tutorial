@@ -101,7 +101,7 @@ const test10 = () => {
 // Q.3) Explain output of following code with reason.
 // const obj={
 //      method:()=>{
-//          console.log(this);
+//          console.log(this);.
 //       }
 // }
 // Ans: In traditional function written inside object --> returns current context. i.e.Object
@@ -113,3 +113,4 @@ const test10 = () => {
 // (() => {
 //   console.log("IIAF");
 // })();
+//
