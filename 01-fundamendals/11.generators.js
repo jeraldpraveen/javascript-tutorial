@@ -139,3 +139,7 @@ console.log(g7.throw()); // Terminated
 // Ans: used to call generator function from another generator function
 // Q.5) Can you prevent return() from terminating the generator ?
 // Ans: yes,by using 'finally' keyword
+
+// Deep dive into Generator
+// https://www.youtube.com/watch?v=O2b33uzXg-4&ab_channel=DeveloperTharun
+// https://www.youtube.com/watch?v=IJ6EgdiI_wU&t=618s&ab_channel=WebDevSimplified
